@@ -1,0 +1,20 @@
+.getStartedButton {
+  width: 350px;
+  height: 150px;
+  margin: auto;
+  overflow: visible;
+  cursor: pointer;
+}
+.Path_2 path {
+  overflow: visible;
+  cursor: pointer;
+  opacity: 0.5;
+  width: 400px;
+  height: 100px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Path_2 text {
+  font: 48px Tahoma;
+  opacity: 1;
+}
+/*# sourceMappingURL=getStarted.css.map */

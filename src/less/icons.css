@@ -1,0 +1,32 @@
+.iconCluster {
+  display: flex;
+  position: absolute;
+  margin-top: -100px;
+  flex-direction: row;
+  width: 100%;
+  justify-content: flex-end;
+}
+.button {
+  text-align: center;
+  margin-left: 15px;
+  margin-right: 15px;
+}
+.button img {
+  width: 64px;
+}
+.button span {
+  color: #F0F8FF;
+}
+.button .img1 {
+  display: block;
+}
+.button .img2 {
+  display: none;
+}
+.button:hover .img1 {
+  display: none;
+}
+.button:hover .img2 {
+  display: block;
+}
+/*# sourceMappingURL=icons.css.map */
